@@ -1,0 +1,3339 @@
+﻿+-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              05/04/2014 00:50:09
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:00:03.1800000
+App up time:       00:04:41.2549990
+Total memory:      4094Mb
+Available memory:  1933Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 217136 MB
+Total available space: 217136 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to create remote thread. (Code: 87)
+Stack Traces:
+
+Server stack trace: 
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at EasyHook.HelperServiceInterface.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              05/04/2014 00:50:14
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:00:03.3910000
+App up time:       00:04:41.4550006
+Total memory:      4094Mb
+Available memory:  1929Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 217136 MB
+Total available space: 217136 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to create remote thread. (Code: 87)
+Stack Traces:
+
+Server stack trace: 
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at EasyHook.HelperServiceInterface.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              05/04/2014 00:50:14
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:00:03.4730000
+App up time:       00:04:41.5360001
+Total memory:      4094Mb
+Available memory:  1929Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 217136 MB
+Total available space: 217136 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to create remote thread. (Code: 87)
+Stack Traces:
+
+Server stack trace: 
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at EasyHook.HelperServiceInterface.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              05/04/2014 00:50:17
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:00:06.1600000
+App up time:       00:04:44.2229993
+Total memory:      4094Mb
+Available memory:  1825Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 217136 MB
+Total available space: 217136 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to create remote thread. (Code: 87)
+Stack Traces:
+
+Server stack trace: 
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at EasyHook.HelperServiceInterface.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              05/04/2014 00:50:20
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:00:09.1450000
+App up time:       00:04:47.2069986
+Total memory:      4094Mb
+Available memory:  1848Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 217136 MB
+Total available space: 217136 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to create remote thread. (Code: 87)
+Stack Traces:
+
+Server stack trace: 
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at EasyHook.HelperServiceInterface.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              07/04/2014 10:07:36
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    01:45:20.0970000
+App up time:       01:39:42.5089980
+Total memory:      4094Mb
+Available memory:  1149Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 217083 MB
+Total available space: 217083 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              15/04/2014 18:33:56
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    09:50:08.1520000
+App up time:       02:12:49.0745003
+Total memory:      4094Mb
+Available memory:  1202Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215858 MB
+Total available space: 215858 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              21/04/2014 11:43:58
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    02:46:12.1410000
+App up time:       02:41:49.7970006
+Total memory:      4094Mb
+Available memory:  1122Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210609 MB
+Total available space: 210609 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              22/04/2014 19:04:32
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    09:55:05.7270000
+App up time:       02:38:44.3240003
+Total memory:      4094Mb
+Available memory:  1316Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 207709 MB
+Total available space: 207709 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              24/04/2014 22:30:31
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    13:19:04.0820000
+App up time:       06:23:24.9660003
+Total memory:      4094Mb
+Available memory:  1374Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 201501 MB
+Total available space: 201501 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              03/05/2014 12:25:44
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    03:43:29.2950000
+App up time:       03:37:53.4269990
+Total memory:      4094Mb
+Available memory:  1291Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 28809 MB
+Total available space: 28809 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              03/05/2014 12:26:09
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    03:43:32.0600000
+App up time:       03:37:56.0959984
+Total memory:      4094Mb
+Available memory:  1288Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 28809 MB
+Total available space: 28809 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              08/05/2014 11:51:48
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    02:45:19.6540000
+App up time:       02:41:17.5190001
+Total memory:      4094Mb
+Available memory:  1089Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215860 MB
+Total available space: 215860 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              12/05/2014 12:32:47
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    03:39:38.3750000
+App up time:       03:35:01.8219996
+Total memory:      4094Mb
+Available memory:  1052Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215563 MB
+Total available space: 215563 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              12/05/2014 13:22:56
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    04:29:47.8130000
+App up time:       04:25:11.2290008
+Total memory:      4094Mb
+Available memory:  900Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215540 MB
+Total available space: 215540 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              16/05/2014 20:03:04
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:57:30.5040000
+App up time:       03:10:34.3764983
+Total memory:      4094Mb
+Available memory:  1002Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215283 MB
+Total available space: 215283 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              16/05/2014 20:03:19
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:57:32.0230000
+App up time:       03:10:35.8845001
+Total memory:      4094Mb
+Available memory:  994Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215283 MB
+Total available space: 215283 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              19/05/2014 01:37:04
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    16:17:02.3320000
+App up time:       08:46:32.0864998
+Total memory:      4094Mb
+Available memory:  968Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215232 MB
+Total available space: 215232 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              20/05/2014 15:18:10
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    05:53:21.2500000
+App up time:       05:49:03.3160000
+Total memory:      4094Mb
+Available memory:  1210Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215187 MB
+Total available space: 215187 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              25/05/2014 01:24:31
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    16:24:22.6600000
+App up time:       08:44:26.5009995
+Total memory:      4094Mb
+Available memory:  964Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215128 MB
+Total available space: 215128 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              25/05/2014 23:55:20
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    15:10:46.9960000
+App up time:       06:46:30.9504996
+Total memory:      4094Mb
+Available memory:  981Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215132 MB
+Total available space: 215132 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              25/05/2014 23:55:32
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    15:10:48.0700000
+App up time:       06:46:32.0185001
+Total memory:      4094Mb
+Available memory:  976Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215132 MB
+Total available space: 215132 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              31/05/2014 01:38:35
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    16:22:18.3910000
+App up time:       08:45:59.5135012
+Total memory:      4094Mb
+Available memory:  2696Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 215095 MB
+Total available space: 215095 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              01/06/2014 21:27:53
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    12:48:29.8790000
+App up time:       04:37:03.2430001
+Total memory:      4094Mb
+Available memory:  920Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 213305 MB
+Total available space: 213305 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              02/06/2014 21:08:17
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    12:40:56.9340000
+App up time:       04:36:33.1125009
+Total memory:      4094Mb
+Available memory:  917Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 212975 MB
+Total available space: 212975 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              05/06/2014 15:31:38
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:46:32.2870000
+App up time:       06:42:14.8299987
+Total memory:      4094Mb
+Available memory:  980Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 212298 MB
+Total available space: 212298 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              08/06/2014 00:00:21
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    15:36:39.6640000
+App up time:       07:02:22.1735004
+Total memory:      4094Mb
+Available memory:  1044Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 212079 MB
+Total available space: 212079 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              10/06/2014 23:49:10
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    15:14:44
+App up time:       02:15:21.7555002
+Total memory:      4094Mb
+Available memory:  1214Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211535 MB
+Total available space: 211535 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              15/06/2014 14:50:45
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:50:21.9880000
+App up time:       06:45:20.5649987
+Total memory:      4094Mb
+Available memory:  1483Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211465 MB
+Total available space: 211465 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              15/06/2014 14:51:03
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:50:23.8220000
+App up time:       06:45:22.3720003
+Total memory:      4094Mb
+Available memory:  1480Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211465 MB
+Total available space: 211465 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              16/06/2014 11:12:50
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    02:23:49.8010000
+App up time:       02:19:01.5780005
+Total memory:      4094Mb
+Available memory:  1348Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211454 MB
+Total available space: 211454 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              18/06/2014 12:16:05
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    03:29:23.3310000
+App up time:       03:25:35.8599998
+Total memory:      4094Mb
+Available memory:  1504Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211407 MB
+Total available space: 211407 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              19/06/2014 23:38:43
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    14:37:13.2460000
+App up time:       06:12:03.7440023
+Total memory:      4094Mb
+Available memory:  952Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211380 MB
+Total available space: 211380 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              20/06/2014 19:16:27
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:59:47.0630000
+App up time:       02:22:10.9760002
+Total memory:      4094Mb
+Available memory:  960Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211254 MB
+Total available space: 211254 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              25/06/2014 23:49:23
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    15:52:55.4410000
+App up time:       06:59:28.2084994
+Total memory:      4094Mb
+Available memory:  1302Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211189 MB
+Total available space: 211189 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              25/06/2014 23:49:38
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    15:52:57.8280000
+App up time:       06:59:30.2405023
+Total memory:      4094Mb
+Available memory:  1288Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211189 MB
+Total available space: 211189 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              25/06/2014 23:49:38
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    15:52:57.8790000
+App up time:       06:59:30.2895022
+Total memory:      4094Mb
+Available memory:  1288Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211189 MB
+Total available space: 211189 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              26/06/2014 12:21:50
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    03:00:57.7070000
+App up time:       02:57:23.4440018
+Total memory:      4094Mb
+Available memory:  1028Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211181 MB
+Total available space: 211181 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              02/07/2014 12:11:37
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    02:56:31.5880000
+App up time:       02:52:41.3949983
+Total memory:      4094Mb
+Available memory:  937Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211028 MB
+Total available space: 211028 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              05/07/2014 21:37:29
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    00:57:33.4790000
+App up time:       00:39:51.4049998
+Total memory:      4094Mb
+Available memory:  1045Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 211014 MB
+Total available space: 211014 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              13/07/2014 21:32:43
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    12:35:08.7970000
+App up time:       04:34:33.5870000
+Total memory:      4094Mb
+Available memory:  1302Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210889 MB
+Total available space: 210889 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              22/07/2014 11:55:59
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    02:37:03.6650000
+App up time:       02:32:54.9409994
+Total memory:      4094Mb
+Available memory:  1957Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210739 MB
+Total available space: 210739 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:13
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:01.7870000
+App up time:       00:47:08.6760014
+Total memory:      4094Mb
+Available memory:  1245Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:20
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:02.3030000
+App up time:       00:47:09.1899989
+Total memory:      4094Mb
+Available memory:  1243Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:20
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:02.3480000
+App up time:       00:47:09.2339994
+Total memory:      4094Mb
+Available memory:  1242Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:21
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:02.8440000
+App up time:       00:47:09.7299992
+Total memory:      4094Mb
+Available memory:  1249Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:24
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:05.8770000
+App up time:       00:47:12.7629989
+Total memory:      4094Mb
+Available memory:  1246Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:27
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:08.8300000
+App up time:       00:47:15.7180012
+Total memory:      4094Mb
+Available memory:  1248Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:30
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:11.8480000
+App up time:       00:47:18.7359989
+Total memory:      4094Mb
+Available memory:  1262Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:33
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:14.8550000
+App up time:       00:47:21.7420011
+Total memory:      4094Mb
+Available memory:  1261Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:36
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:17.8570000
+App up time:       00:47:24.7429993
+Total memory:      4094Mb
+Available memory:  1257Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:39
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:20.8610000
+App up time:       00:47:27.7479988
+Total memory:      4094Mb
+Available memory:  1255Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:42
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:23.8710000
+App up time:       00:47:30.7599989
+Total memory:      4094Mb
+Available memory:  1255Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:45
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:26.8750000
+App up time:       00:47:33.7629988
+Total memory:      4094Mb
+Available memory:  1217Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:48
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:29.8770000
+App up time:       00:47:36.7640000
+Total memory:      4094Mb
+Available memory:  1196Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:51
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:32.8810000
+App up time:       00:47:39.7690011
+Total memory:      4094Mb
+Available memory:  1176Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:54
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:35.8790000
+App up time:       00:47:42.7680001
+Total memory:      4094Mb
+Available memory:  1118Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:34:57
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:38.8850000
+App up time:       00:47:45.7720009
+Total memory:      4094Mb
+Available memory:  1164Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:35:00
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:41.9080000
+App up time:       00:47:48.7949994
+Total memory:      4094Mb
+Available memory:  1162Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:35:03
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:44.8890000
+App up time:       00:47:51.7739992
+Total memory:      4094Mb
+Available memory:  1187Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:35:06
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:47.8960000
+App up time:       00:47:54.7829989
+Total memory:      4094Mb
+Available memory:  1191Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:35:09
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:50.8960000
+App up time:       00:47:57.7840006
+Total memory:      4094Mb
+Available memory:  1059Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:35:12
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:53.8980000
+App up time:       00:48:00.7860008
+Total memory:      4094Mb
+Available memory:  1054Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:35:15
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:56.9000000
+App up time:       00:48:03.7870013
+Total memory:      4094Mb
+Available memory:  1062Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/07/2014 17:35:18
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:29:59.9020000
+App up time:       00:48:06.7879992
+Total memory:      4094Mb
+Available memory:  1122Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210703 MB
+Total available space: 210703 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              03/08/2014 00:07:14
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    14:51:08.4650000
+App up time:       05:53:44.2034998
+Total memory:      4094Mb
+Available memory:  903Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210615 MB
+Total available space: 210615 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              07/08/2014 08:33:11
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    00:32:05.7190000
+App up time:       00:27:30.1540015
+Total memory:      4094Mb
+Available memory:  965Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210603 MB
+Total available space: 210603 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              12/08/2014 13:07:09
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    04:17:42.0510000
+App up time:       04:13:20.2289995
+Total memory:      4094Mb
+Available memory:  1092Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210453 MB
+Total available space: 210453 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              12/08/2014 13:07:15
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    04:17:42.6470000
+App up time:       04:13:20.8230017
+Total memory:      4094Mb
+Available memory:  1090Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210453 MB
+Total available space: 210453 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              14/08/2014 13:07:03
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    04:26:06.6040000
+App up time:       04:22:08.8637298
+Total memory:      4094Mb
+Available memory:  1255Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210421 MB
+Total available space: 210421 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              15/09/2014 13:49:26
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    04:39:35.0430000
+App up time:       04:35:31.0920003
+Total memory:      4094Mb
+Available memory:  1127Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209746 MB
+Total available space: 209746 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              03/10/2014 15:11:03
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:45:06.0960000
+App up time:       06:41:48.0689994
+Total memory:      4094Mb
+Available memory:  1055Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209520 MB
+Total available space: 209520 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              12/10/2014 09:56:47
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    00:44:14.8780000
+App up time:       00:37:22.4470011
+Total memory:      4094Mb
+Available memory:  1472Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209459 MB
+Total available space: 209459 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              03/11/2014 02:13:36
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    1.17:28:20.8440000
+App up time:       08:14:45.4290001
+Total memory:      4094Mb
+Available memory:  2593Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209172 MB
+Total available space: 209172 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              04/11/2014 11:51:44
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    02:16:36.2390000
+App up time:       02:12:14.7750020
+Total memory:      4094Mb
+Available memory:  1241Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209175 MB
+Total available space: 209175 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.AccessViolationException
+Exception messages: 
+   STATUS_ACCESS_DENIED: Unable to open service control manager. Check for administrator privileges! (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.ServiceMgmt.Install()
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              06/11/2014 09:47:05
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    00:47:26.5000000
+App up time:       00:43:39.0290012
+Total memory:      4094Mb
+Available memory:  1140Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209029 MB
+Total available space: 209029 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              10/11/2014 10:01:01
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    01:20:17.4430000
+App up time:       01:14:25.1219998
+Total memory:      4094Mb
+Available memory:  953Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208525 MB
+Total available space: 208525 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              16/11/2014 16:08:13
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    07:05:22.1210000
+App up time:       07:01:25.5605002
+Total memory:      4094Mb
+Available memory:  1153Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208467 MB
+Total available space: 208467 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              18/11/2014 14:47:22
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:30:13.5780000
+App up time:       06:25:05.5620017
+Total memory:      4094Mb
+Available memory:  2212Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208492 MB
+Total available space: 208492 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              21/11/2014 19:44:19
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:07:12.6880000
+App up time:       02:15:42.8534996
+Total memory:      4094Mb
+Available memory:  1001Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208591 MB
+Total available space: 208591 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/11/2014 14:42:40
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    05:54:59.2030000
+App up time:       05:49:22.1290008
+Total memory:      4094Mb
+Available memory:  1305Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208586 MB
+Total available space: 208586 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              24/11/2014 20:28:59
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    11:15:55.3240000
+App up time:       02:07:19.4704998
+Total memory:      4094Mb
+Available memory:  1264Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208569 MB
+Total available space: 208569 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              25/11/2014 15:58:08
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:27:12.1190000
+App up time:       06:22:53.2730014
+Total memory:      4094Mb
+Available memory:  2850Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208071 MB
+Total available space: 208071 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              26/11/2014 15:43:30
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:07:44.7710000
+App up time:       06:03:02.0070006
+Total memory:      4094Mb
+Available memory:  2583Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208053 MB
+Total available space: 208053 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              26/11/2014 15:43:37
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:07:45.5760000
+App up time:       06:03:02.8050019
+Total memory:      4094Mb
+Available memory:  2582Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208053 MB
+Total available space: 208053 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              27/11/2014 18:22:34
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    08:57:30.9140000
+App up time:       02:42:19.6795013
+Total memory:      4094Mb
+Available memory:  2011Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208051 MB
+Total available space: 208051 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              28/11/2014 10:27:28
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    01:08:34.1120000
+App up time:       01:03:57.1119996
+Total memory:      4094Mb
+Available memory:  1117Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 208042 MB
+Total available space: 208042 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              01/12/2014 14:20:44
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    05:27:05.4980000
+App up time:       05:21:33.7730009
+Total memory:      4094Mb
+Available memory:  1432Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210015 MB
+Total available space: 210015 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              02/12/2014 14:19:32
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    05:52:20.1580000
+App up time:       05:47:05.0850008
+Total memory:      4094Mb
+Available memory:  1043Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 210002 MB
+Total available space: 210002 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              03/12/2014 23:13:06
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    14:21:38.5660000
+App up time:       06:19:01.6990023
+Total memory:      4094Mb
+Available memory:  969Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209993 MB
+Total available space: 209993 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              06/12/2014 11:14:29
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    02:59:42.2940000
+App up time:       02:53:22.3059993
+Total memory:      4094Mb
+Available memory:  901Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209857 MB
+Total available space: 209857 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.TimeoutException
+Exception messages: 
+   Unable to wait for injection completion.
+Stack Traces:
+   at EasyHook.HelperServiceInterface.WaitForInjection(Int32 InTargetPID)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              07/12/2014 23:38:40
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:11:23.7030000
+App up time:       06:09:04.0949995
+Total memory:      4094Mb
+Available memory:  1073Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209828 MB
+Total available space: 209828 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              09/12/2014 10:09:32
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    01:04:45.5760000
+App up time:       01:00:13.4179998
+Total memory:      4094Mb
+Available memory:  1409Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209773 MB
+Total available space: 209773 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              09/12/2014 14:57:34
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    05:52:43.8870000
+App up time:       05:48:11.7280014
+Total memory:      4094Mb
+Available memory:  976Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209740 MB
+Total available space: 209740 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              10/12/2014 18:50:49
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    10:00:15.8980000
+App up time:       00:55:48.2950015
+Total memory:      4094Mb
+Available memory:  1998Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209739 MB
+Total available space: 209739 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              11/12/2014 23:08:18
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    14:06:05.2300000
+App up time:       05:16:28.1730013
+Total memory:      4094Mb
+Available memory:  1029Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209770 MB
+Total available space: 209770 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   STATUS_INTERNAL_ERROR: C++ completion routine has returned success but didn't raise the remote event. (Code: 1)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              14/12/2014 14:53:14
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    05:49:02.4160000
+App up time:       05:44:57.1580026
+Total memory:      4094Mb
+Available memory:  1006Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209645 MB
+Total available space: 209645 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              19/12/2014 16:25:30
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    06:52:59.2150000
+App up time:       06:46:45.7974998
+Total memory:      4094Mb
+Available memory:  2961Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209361 MB
+Total available space: 209361 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              20/12/2014 13:38:14
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    04:38:18.5410000
+App up time:       04:33:23.3339998
+Total memory:      4094Mb
+Available memory:  1699Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209388 MB
+Total available space: 209388 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              23/12/2014 21:01:28
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    12:07:29.9610000
+App up time:       02:51:37.8899987
+Total memory:      4094Mb
+Available memory:  1000Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209279 MB
+Total available space: 209279 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              26/12/2014 00:11:43
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    15:15:59.5980000
+App up time:       06:38:00.9799992
+Total memory:      4094Mb
+Available memory:  915Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209278 MB
+Total available space: 209278 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.ApplicationException
+Exception messages: 
+   Unknown error code (-1073741275): The given target process does not exist! (Code: 87)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
++-------------------------------------------------------------------+
+Application:       ExplorerPCal
+Path:              D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe
+Version:           1.2.0.0
+Date:              27/12/2014 13:12:25
+Computer name:     VAHIDPC
+User name:         Vahid
+OSVersion:         6.2.9200.0
+OSPlatform:        X64
+OSFullName:        Microsoft Windows 8.1 Enterprise
+Culture:           fa-IR
+Resolution:        {Width=1280, Height=1024}
+System up time:    04:03:12.2720000
+App up time:       03:57:59.5830007
+Total memory:      4094Mb
+Available memory:  930Mb
+Drive D:\
+Volume label: Work
+File system: NTFS
+Available space to current user: 209251 MB
+Total available space: 209251 MB
+Total size of drive: 307199 MB 
+Url: D:\Prog\1392\ExplorerPCal\Bin\ExplorerPCal.exe -> ExplorerPCal, Version=1.2.0.0, Culture=neutral, PublicKeyToken=a55a2614eb2aee77
+Caller: ExplorerPCal.HookingInterface.HooksManager -> injectHooks
+Exception classes: 
+   System.OutOfMemoryException
+Exception messages: 
+   STATUS_NO_MEMORY: Unable to allocate memory in target process. (Code: 5)
+Stack Traces:
+   at EasyHook.NativeAPI.Force(Int32 InErrorCode)
+   at EasyHook.RemoteHooking.InjectEx(Int32 InHostPID, Int32 InTargetPID, Int32 InWakeUpTID, Int32 InNativeOptions, String InLibraryPath_x86, String InLibraryPath_x64, Boolean InCanBypassWOW64, Boolean InCanCreateService, Boolean InRequireStrongName, Object[] InPassThruArgs)
+   at ExplorerPCal.HookingInterface.HooksManager.injectHooks(IEnumerable`1 explorers) in d:\Prog\1392\ExplorerPCal\ExplorerPCal\HookingInterface\HooksManager.cs:line 121
